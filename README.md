@@ -30,3 +30,11 @@ User Characteristics The users are categorized as:
 	1. MySQL database
 -Accounts: 
 	1. Requires Twilio API key.
+	
+<img width="613" alt="Screenshot 2023-06-14 at 20 11 03" src="https://github.com/Saiesh-Agre/CD-Library-Management-System/assets/98575639/58a34ff3-7b05-440b-8802-3645c01b6f21">
+
+<img width="531" alt="Screenshot 2023-06-14 at 20 11 46" src="https://github.com/Saiesh-Agre/CD-Library-Management-System/assets/98575639/b1a44dd7-3ba5-4036-9196-9954c89e58d4">
+
+<img width="672" alt="Screenshot 2023-06-14 at 20 12 08" src="https://github.com/Saiesh-Agre/CD-Library-Management-System/assets/98575639/35583802-17bd-4471-8c6a-6ec198555ba6">
+
+<img width="672" alt="Screenshot 2023-06-14 at 20 12 35" src="https://github.com/Saiesh-Agre/CD-Library-Management-System/assets/98575639/4290bd32-3d1c-4ac2-a6a7-06da56948fb6">
